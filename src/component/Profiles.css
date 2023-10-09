@@ -1,0 +1,13 @@
+.profile-card{
+    background-color: rgb(137, 47, 255);
+    text-align: center;
+    padding: 10px;
+    margin-left: 100px;
+    color:white;
+}
+
+.container{
+    padding: 20px;
+    width:550px;
+    
+}
